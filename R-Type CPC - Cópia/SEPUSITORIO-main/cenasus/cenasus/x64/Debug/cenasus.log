@@ -1,0 +1,9 @@
+﻿  Background.cpp
+  Bullet.cpp
+  cenasus.cpp
+  Enemy.cpp
+  Game.cpp
+C:\Users\Ricardo\Desktop\R-Type CPC - Cópia\SEPUSITORIO-main\cenasus\cenasus\Game.cpp(47,2): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  player.cpp
+  Gerando Código...
+  cenasus.vcxproj -> C:\Users\Ricardo\Desktop\R-Type CPC - Cópia\SEPUSITORIO-main\cenasus\x64\Debug\cenasus.exe
